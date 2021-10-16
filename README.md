@@ -1,13 +1,15 @@
 
- <h1>Hey there :wave:</h1>
- <ul>
- <li>I am a full stack developer :sunflower:</li>
- <li>I like to write optmize code which is simple and easy to understand :wink: </li>
- <li>Have strong experience in Reactjs,Redux,GraphQL,Firebase,javascript,Scss :zap: </li>
- <li>Have ability to resolve any type of problems regarding software related as well as hardware :sunny: </li>
- <li>Need any Kind of help or support, connect with me :raised_hands:</li>
- </ul>
-<h2>:hammer_and_wrench: Languages and Tools</h2>
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 **<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!** 👋
+ 
+ #### 👨‍💻 I'm a Software Engineer Learning and Building New Things
+ #### 🤫 Clean Code is the key to success
+ #### :zap: Have strong experience in Reactjs,Redux,GraphQL,Firebase,javascript,Scss 
+ #### 🗣️ I love communicating with New People
+ #### 💬 Ask me about anything, I am happy to help
+
+
+
+### 💻 My Tech Stack 
  
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
@@ -25,14 +27,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 
-<h2>Social</h2>
+### 🔗 Find me Here ->
 
 [<img src="https://img.shields.io/badge/Mithilesh_Prajapati-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mp-214/)
 [![Gmail Badge](https://img.shields.io/badge/-mithileshrprajapati@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aman.atg001@gmail.com)](mailto:mithileshrprajapati@gmail.com)
 
 
 
-
-
-
-<h2>Always Be Kind</h2>
