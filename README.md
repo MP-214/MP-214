@@ -1,3 +1,4 @@
+
  <h1>Hey there :wave:</h1>
  <ul>
  <li>I am a full stack developer :sunflower:</li>
@@ -6,31 +7,32 @@
  <li>Have ability to resolve any type of problems regarding software related as well as hardware :sunny: </li>
  <li>Need any Kind of help or support, connect with me :raised_hands:</li>
  </ul>
-<h2>:hammer_and_wrench: Languages and Tools<h2>
- <ul>
- <img src="https://camo.githubusercontent.com/cf1a0ef083a2372d7f66b4691d5d25bfd8c098f42871e8da90edb1f32ed187c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074"/>
- <img src="https://camo.githubusercontent.com/137a7a0f28f9e326bcc81a5a0bd853c86435143774c15642d827a5788e778667/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374"/>
- <img src="https://camo.githubusercontent.com/d19e6107edf721249f78c18716c0834a60e5398d8ba90dd91c66ce990ab805dd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d5265647578" />
- <img src="https://camo.githubusercontent.com/0b12f147bccbae079e5493d37894cba055f79f1f4c28c0357a64e6770647a627/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46697265626173652d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4669726562617365"/>
- <img src="https://camo.githubusercontent.com/ea8d06ee5393fec5644e63d035070d043e14fdd79bb21b88242c1ca60a4e3f50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170"/>
- <img src="https://camo.githubusercontent.com/83b1bc08ef341c39ed71a678068b7e5f95bac0391e75595439049a8080bc0c68/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/>
- <img src="https://camo.githubusercontent.com/735a0035e9a903865aa03b29414eb639fb4ae0e57a3839cc66815837c9a545bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d63737333"/>
- <img src="https://camo.githubusercontent.com/0136ea95042a2ed2958cabe8b3a24881693fef9de9448e3c9b0c7dc0dc5b5e9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6865726f6b75"/>
- <img src="https://camo.githubusercontent.com/392fa71fd2737088b6d21ba33f3d2fb6e1ac7c61142cdbe56c1d688ecf781ab8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462"/>
- <img src="https://camo.githubusercontent.com/fc9595a5330618b4bc0cff497f30270049273c8038bf4003cea15d8df5675df5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d457870726573732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d657870726573736a73"/>
- <img src="https://camo.githubusercontent.com/cec92673ea713fa89ba2ae2033daf5851f6f39393ff5b93231aa707d424638d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73"/>
-  <img src="https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974"/>
- <img src="https://camo.githubusercontent.com/61247789f679ccc56aaeb938a1ad0f136d25423df6940e468ab10816c1b23cc4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974687562"/>
- </ul>
+<h2>:hammer_and_wrench: Languages and Tools</h2>
  
- 
- 
- <h2>Social</h2>
- <ul>
- <a href="linkedin.com/in/mp-214"><img src="https://img.shields.io/badge/Mithilesh Prajapati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a><img src="https://img.shields.io/badge/mithileshrprajapati@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- 
- </ul>
- 
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React_Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+
+<h2>Social</h2>
+
+[<img src="https://img.shields.io/badge/Mithilesh_Prajapati-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mp-214/)
+[![Gmail Badge](https://img.shields.io/badge/-mithileshrprajapati@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aman.atg001@gmail.com)](mailto:mithileshrprajapati@gmail.com)
+
+
+
+
+
 
 <h2>Always Be Kind</h2>
