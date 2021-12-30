@@ -1,5 +1,5 @@
 
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 **<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!** 👋
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 **<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!<img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
  
  #### 👨‍💻 I'm a Software Engineer Learning and Building New Things
  #### 🤫 Clean Code is the key to success
